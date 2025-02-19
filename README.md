@@ -6,10 +6,10 @@ Here are the certifications that have equipped me with essential data analytics 
 
 Google Data Analytics Professional Certificate
 Issued on February 25, 2024
-This comprehensive program helped me gain in-depth knowledge of data cleaning, visualization, and analysis using tools like Excel, SQL, R, and Tableau.
+This comprehensive program helped me gain in-depth knowledge of data cleaning, visualization, and analysis using tools like Excel, SQL.
 Projects:
 Data cleaning and analysis of historical sales data using SQL.
-Visualizing customer segmentation trends using Tableau.
+Visualizing customer segmentation trends using PowerBI.
 
 AWS Certified Data Analytics (Simplilearn)
 Issued in 2024
@@ -22,7 +22,7 @@ Analyzing large datasets with Amazon Redshift and creating dashboards with Quick
 Throughout my certification journey, I've gained hands-on experience with the following tools and technologies:
 Data Analysis: SQL, Excel, R
 Data Visualization: Tableau, Google Data Studio, QuickSight
-Cloud Platforms: AWS (S3, Redshift, Glue)
+Cloud Platforms: AWS 
 Programming: Python (Pandas, NumPy, Matplotlib)
 Version Control: Git, GitHub
 Other Tools: Google Sheets, Jupyter Notebooks
