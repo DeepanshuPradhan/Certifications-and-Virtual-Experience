@@ -16,7 +16,7 @@ Issued in 2024
 This certification deepened my understanding of cloud-based data analytics, focusing on data lakes, data warehousing, and ETL processes using AWS services such as S3, Redshift.
 Projects:
 Building a scalable data pipeline on AWS.
-Analyzing large datasets with Amazon Redshift and creating dashboards with QuickSight.
+Analyzing large datasets.
 
 🛠️ Skills & Tools
 Throughout my certification journey, I've gained hands-on experience with the following tools and technologies:
