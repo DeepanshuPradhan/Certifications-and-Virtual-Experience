@@ -13,15 +13,15 @@ Visualizing customer segmentation trends using PowerBI.
 
 AWS Certified Data Analytics (Simplilearn)
 Issued in 2024
-This certification deepened my understanding of cloud-based data analytics, focusing on data lakes, data warehousing, and ETL processes using AWS services such as S3, Redshift, and Glue.
+This certification deepened my understanding of cloud-based data analytics, focusing on data lakes, data warehousing, and ETL processes using AWS services such as S3, Redshift.
 Projects:
 Building a scalable data pipeline on AWS.
 Analyzing large datasets with Amazon Redshift and creating dashboards with QuickSight.
 
 🛠️ Skills & Tools
 Throughout my certification journey, I've gained hands-on experience with the following tools and technologies:
-Data Analysis: SQL, Excel, R
-Data Visualization: Tableau, Google Data Studio, QuickSight
+Data Analysis: SQL, Excel,Informatica
+Data Visualization: Power BI
 Cloud Platforms: AWS 
 Programming: Python (Pandas, NumPy, Matplotlib)
 Version Control: Git, GitHub
